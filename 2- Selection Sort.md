@@ -57,5 +57,24 @@ Linked lists are great if you’re going to read all the items one at a time: yo
 ![image](https://user-images.githubusercontent.com/105928025/213097957-58cb869a-fc68-40ac-9494-c26da37451e0.png)
 
 
+## Selection Sort
 
+Selection sort algorithms are used to sort arrays and it takes time O(n*n) 
+
+How it work ? 
+Suppose you have a bunch of music on your computer For each artist, you have a play count and you want to sort this list from most to least played
+
+1. go through the list and find the most-played artist. Add that artist to a new list.
+
+![image](https://user-images.githubusercontent.com/105928025/213101135-0677f96a-3f24-43f4-ac03-a835a891f46e.png)
+
+
+2. Do it again to find the next-most-played artist.
+
+![image](https://user-images.githubusercontent.com/105928025/213101212-4cb88f3c-01c2-4b02-ba28-7b43930dab97.png)
+
+
+3. Keep doing this, and you’ll end up with a sorted list.
+
+![image](https://user-images.githubusercontent.com/105928025/213101248-b4c392a0-f13c-4444-91dd-cde06856bf03.png)
 
