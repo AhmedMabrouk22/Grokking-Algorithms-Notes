@@ -42,7 +42,7 @@ after applying quick sort again for the two sub-arrays they will be sorted, then
 
 mearge sort is O(n log n) and quicksort is O(n^2) in worst case and O(n log n) on average case, but Quicksort is much faster.
 
-Quicksort is unique because its speed depends on the pivot you choose and quicksort has smaller constant than merge sort, so if they're both O(n log n) time, quicksort is faster. *And quicksort is faster in practice because it hits the average case way more often than the worst casr*.
+Quicksort is unique because its speed depends on the pivot you choose and quicksort has smaller constant than merge sort, so if they're both O(n log n) time, quicksort is faster. *And quicksort is faster in practice because it hits the average case way more often than the worst case*.
 
 
 #### Average case vs. worst case
